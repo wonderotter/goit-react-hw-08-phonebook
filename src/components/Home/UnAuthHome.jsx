@@ -18,7 +18,7 @@ import {
           <ContactsLogo2 size="200px" />
         </AppLogo>
         <HomeTextWrapper>
-          <HomeTitle>Welcome to your "Be inTouch" phonebook</HomeTitle>
+          <HomeTitle>Welcome to your "Be inConnect" phonebook</HomeTitle>
           <HomeDescription>
             Here you can manage your contacts, call them, add or remove if it is
             outdated. To use all application functions you must be authorized

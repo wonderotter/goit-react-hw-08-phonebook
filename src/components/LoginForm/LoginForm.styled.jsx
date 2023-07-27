@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const FormWrapper = styled.div`
   margin: 0 auto;
 
-  background-color: #ffffff66;
+  background-color: green;
   box-shadow: #ffffff 0px 0px 20px;
 
   width: 300px;

@@ -25,7 +25,7 @@ import {
           <UserEmail>{userEmail}</UserEmail>
         </UserLogo>
         <HomeTextWrapper>
-          <HomeTitle> Welcome to your "Be inTouch" homepage</HomeTitle>
+          <HomeTitle> Welcome to your "Be inConnect" homepage</HomeTitle>
           <HomeDescription>
             Manage your contacts on "Contacts" page
           </HomeDescription>

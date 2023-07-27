@@ -8,6 +8,7 @@ export const HomeWrapper = styled.div`
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 20px;
+  background-color: pink;
 `;
 
 export const AppLogo = styled.div`

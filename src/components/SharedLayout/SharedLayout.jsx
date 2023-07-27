@@ -27,7 +27,7 @@ export const SharedLayout = () => {
             <ContactsLogo1 size="50px" className="firstChild" />
             <ContactsLogo2 size="50px" className="secondChild" />
           </AppLogo>
-          <h2>Be inTouch</h2>
+          <h2>Be inConnect</h2>
         </LogoWrapper>
         <Navigation />
         {isLoggedIn && <UserMenu />}
