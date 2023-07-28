@@ -29,7 +29,7 @@ import { notification } from 'components/SharedLayout/notification';
 import { STATUS } from 'redux/constants';
 const { FULFILLED } = STATUS;
 
-const modalRoot = document.querySelector('#modal-root');
+const modalRoot = document.querySelector('body');
 
 export const ModalForm = ({ toggleModal }) => {
   const nameID = nanoid();
